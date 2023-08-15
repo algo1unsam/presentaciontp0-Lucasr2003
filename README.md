@@ -15,8 +15,7 @@ Ya saben usar git!
 Descripción:  Mi nombre es Rodriguez Lucas Gonzalo, tengo 20 años. Elegi la tecnicatura de programacion informatica por que fue lo que mas me llamo la atencion de la secundaria, y quise seguir esta rama. 
 
 Foto de mi persona:
-
-![d](https://imgur.com/MPGQAJK)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/z94mZeq" data-context="false" ><a href="//imgur.com/a/z94mZeq"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
