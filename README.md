@@ -12,10 +12,11 @@ Ya saben usar git!
 
 ## Estudiante: Rodriguez Lucas Gonzalo
 
-Descripción:  Mi nombre es Rodriguez Lucas Gonzalo, tengo 20 años. Elegi la tecnicatura de programacion informatica por que fue lo que mas me llamo la atencion de la secundaria, y quise seguir esta rama. 
+Descripción:  Mi nombre es Rodriguez Lucas Gonzalo, tengo 20 años. Estudio en la UNSAM y elegi la carrera de tecnicatura de programacion informatica por que fue lo que mas me llamo la atencion de la secundaria, y quise seguir esta rama. 
 
 Foto de mi persona:
-https://imgur.com/z94mZeq
+
+[![unnamed.jpg](https://i.postimg.cc/d0f3HqNW/unnamed.jpg)](https://postimg.cc/p9DPytH8)
 
 
 
